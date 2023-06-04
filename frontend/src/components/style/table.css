@@ -1,0 +1,36 @@
+.img_parent img{
+    width: 27px;
+    border-radius: 50%;
+}
+
+.action{
+    background: none !important;
+    border: none;
+}
+.dropdown-toggle::after{
+    display: none;
+}
+
+
+
+.dots{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+
+.shadow{
+    background-color: #212529;
+    color: white;
+}
+.align-items-center{
+    /* background-color: aqua; */
+    border: none;
+     /* background: none !important; */
+}
+.thead-dark, .table-dark{
+    border: none;
+}
+table, tr, td {
+    border: none;
+}
